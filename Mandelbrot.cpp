@@ -11,6 +11,10 @@ Mandelbrot::~Mandelbrot()
 {
 }
 
+void Mandelbrot::seeIfIcanPushtoGit()
+{
+}
+
 int Mandelbrot::getIterations(double x, double y)// get the number of iteration needed to x+yi to exceded 2 in the 
                                                  // equetion z^2 + c.
 {

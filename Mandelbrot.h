@@ -10,6 +10,8 @@ public:
 	Mandelbrot();
 	~Mandelbrot();
 
+	void seeIfIcanPushtoGit();
+
 	static int getIterations(double x, double y);
 };
 
